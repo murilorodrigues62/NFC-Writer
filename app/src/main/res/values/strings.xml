@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NFC-Writer</string>
+    <string name="text_write">Texto a ser escrito na tag NFC</string>
+    <string name="text_hint">Aproxime a tag NFC ao seu dispositivo para escrever</string>
+    <string name="tag_writable">Esta tag não permite escrita!</string>
+    <string name="write_ok">Tag escrita com sucesso</string>
+    <string name="write_fail">Não foi possível escrever na tag</string>
+    <string name="text_empty">Informe texto a ser escrito na tag</string>
+    <string name="nfc_disable">O NFC do seu dispositivo não está habilitado</string>
+</resources>
